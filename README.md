@@ -1,2 +1,3 @@
-# Text_Generation
-CMPM 147 (Generative Design) Text Generation assignment
+# p1-text-generation-starter
+
+Credit: Adam Smith
