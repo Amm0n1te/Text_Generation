@@ -21,13 +21,6 @@ const fillers = {
     godspeed: ["Godspeed", "Have a nice day", "Good luck", "Cheers", "Be careful out there", "May the force be with you", "Eat your veggies", "bruh,"]
     
   };
-  
-  /*const template = `$adventurer, heed my $message!
-  
-  I have just come from $pre$post where the $people folk are in desperate need. Their town has been overrun by $baddies. You must venture forth at once, taking my $item, and help them.
-  
-  It is told that the one who can rescue them will be awarded with $num $looty $loots. Surely this must tempt one such as yourself!
-  `;*/
 
   
   const template = `Commander $steve, 
